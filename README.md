@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/luscas_Arimate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luscas_Arimate" height="30" width="40" /></a>
   
-<a href="https://linkedin.com/in/luscasarimate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luscasarimate" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luscas-arimate-7b9658255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luscasarimate" height="30" width="40" /></a>
   
 <a href="https://instagram.com/luscasarimate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luscasarimate" height="30" width="40" /></a>
   
