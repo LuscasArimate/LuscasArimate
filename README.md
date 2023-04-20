@@ -1,6 +1,3 @@
-##  🐍 &nbsp; Snake
-
-![Snake animation](https://github.com/LuscasArimate/LuscasArimate/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="center">Hi 👋, I'm Lucas De Arimateia</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
@@ -25,3 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luscasarimate&show_icons=true&locale=en" alt="luscasarimate" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luscasarimate&" alt="luscasarimate" /></p>
+
+
+##  🐍 &nbsp; Snake
+
+![Snake animation](https://github.com/LuscasArimate/LuscasArimate/blob/output/github-contribution-grid-snake.svg)
