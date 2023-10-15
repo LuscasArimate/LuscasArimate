@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luscasarimate&label=Profile%20views&color=0e75b6&style=flat" alt="luscasarimate" /> </p>
 
-- 🔭 I’m currently working on **TrabalhoDoDD**
+- 🔭 I’m currently working on **CompensaMais**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
