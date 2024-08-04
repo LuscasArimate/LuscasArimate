@@ -6,7 +6,7 @@
 
 <img align="center" alt="" src="./src/HeaderGit.gif">
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" height="190px" src="./src/100condição.webp">
 
 <h3 align="left">Connect with me!</h3>
 
